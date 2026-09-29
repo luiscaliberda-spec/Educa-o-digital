@@ -1,8 +1,8 @@
 P{
     text-align: center;
-    color:rgb(210, 247, 255)
+    color:rgb(0, 13, 16)
 }
 
 body{
-    background-image: radial-gradient(rgb(151, 197, 249), white);
+    background-image: linear-gradient(rgb(178, 209, 244), white);
 }
