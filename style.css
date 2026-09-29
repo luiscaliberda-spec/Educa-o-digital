@@ -3,6 +3,10 @@ P{
     color:rgb(0, 13, 16)
 }
 
+header{
+    background-image: radial-gradient(rgb(255, 255, 255) ,rgb(255, 255, 0));
+}
+
 body{
     background-image: linear-gradient(rgb(178, 209, 244), white);
 }
